@@ -19,4 +19,5 @@ Day | Topic
 **11**|[<ul><li>Everything you need to know about FFUF - Blog</li></ul>](https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html)[<ul><li>How to Master FFUF for Bug Bounties and Pen Testing - Video</li></ul>](https://www.youtube.com/watch?v=iLFkxAmwXF0&ab_channel=codingo)
 **12**|[<ul><li>Android security checklist: WebView - Blog</li></ul>](https://blog.oversecured.com/Android-security-checklist-webview/)
 **13**|[<ul><li>How To Hack API In 60 Minutes With Open Source Tools - Blog</li></ul>](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
+**14**|[<ul><li>How we spoofed ENS domains for $15k - Writeup</li></ul>](https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6)[<ul><li>How I was able to see likes and dislikes count even though is hidden by victim - Writeup</li></ul>](https://bloggerrando.blogspot.com/2022/04/15-1.html)
 
