@@ -21,4 +21,5 @@ Day | Topic
 **13**|[<ul><li>How To Hack API In 60 Minutes With Open Source Tools - Blog</li></ul>](https://www.wallarm.com/what/how-to-hack-api-in-60-minutes-with-open-source)
 **14**|[<ul><li>How we spoofed ENS domains for $15k - Writeup</li></ul>](https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6)[<ul><li>How I was able to see likes and dislikes count even though is hidden by victim - Writeup</li></ul>](https://bloggerrando.blogspot.com/2022/04/15-1.html)
 **15**|[<ul><li>Find new domains of a company using SSL Certificates - Bug Bounty Recon (Blog)</li></ul>](https://www.cyberick.com/post/find-new-domains-of-a-company-using-ssl-certificates-bug-bounty-recon)[<ul><li>What VPS to choose? - Blog</li></ul>](https://zonduu.medium.com/what-vps-to-choose-1631f059b0a)
+**16**|[<ul><li>Authentication bypass using root array -  Writeup </li></ul>](https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7)
 
