@@ -23,4 +23,5 @@ Day | Topic
 **15**|[<ul><li>Find new domains of a company using SSL Certificates - Bug Bounty Recon (Blog)</li></ul>](https://www.cyberick.com/post/find-new-domains-of-a-company-using-ssl-certificates-bug-bounty-recon)[<ul><li>What VPS to choose? - Blog</li></ul>](https://zonduu.medium.com/what-vps-to-choose-1631f059b0a)
 **16**|[<ul><li>Authentication bypass using root array -  Writeup </li></ul>](https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7)
 **17**|[<ul><li>Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace - Blog</li></ul>](https://palisade.consulting/blog/rarible-vulnerability)
+**18**|[<ul><li>Cache Key Normalization DoS - Blog</li></ul>](https://youst.in/posts/cache-key-normalization-denial-of-service/)
 
