@@ -24,4 +24,5 @@ Day | Topic
 **16**|[<ul><li>Authentication bypass using root array -  Writeup </li></ul>](https://infosecwriteups.com/authentication-bypass-using-root-array-4a179242b9f7)
 **17**|[<ul><li>Palisade identifies Wormable Cross-Site Scripting Vulnerability affecting Rarible’s NFT Marketplace - Blog</li></ul>](https://palisade.consulting/blog/rarible-vulnerability)
 **18**|[<ul><li>Cache Key Normalization DoS - Blog</li></ul>](https://youst.in/posts/cache-key-normalization-denial-of-service/)
+**19**| List of some recon suites <br><br>[<ul><li>reconFTW</li></ul>](https://github.com/six2dez/reconftw)[<ul><li>Osmedeus</li></ul>](https://github.com/j3ssie/osmedeus)[<ul><li>reNgine</li></ul>](https://github.com/yogeshojha/rengine)
 
