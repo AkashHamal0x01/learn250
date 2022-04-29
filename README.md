@@ -26,4 +26,5 @@ Day | Topic
 **18**|[<ul><li>Cache Key Normalization DoS - Blog</li></ul>](https://youst.in/posts/cache-key-normalization-denial-of-service/)
 **19**| List of some recon suites <br><br>[<ul><li>reconFTW</li></ul>](https://github.com/six2dez/reconftw)[<ul><li>Osmedeus</li></ul>](https://github.com/j3ssie/osmedeus)[<ul><li>reNgine</li></ul>](https://github.com/yogeshojha/rengine)
 **20**|[<ul><li>How Did I Leak 5.2k Customer Data From a Large Company? - Writeup</li></ul>](https://infosecwriteups.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409)
+**21**|[<ul><li>CVE-2022-21449: Psychic Signatures in Java</li></ul>](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/)
 
