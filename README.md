@@ -27,4 +27,5 @@ Day | Topic
 **19**| List of some recon suites <br><br>[<ul><li>reconFTW</li></ul>](https://github.com/six2dez/reconftw)[<ul><li>Osmedeus</li></ul>](https://github.com/j3ssie/osmedeus)[<ul><li>reNgine</li></ul>](https://github.com/yogeshojha/rengine)
 **20**|[<ul><li>How Did I Leak 5.2k Customer Data From a Large Company? - Writeup</li></ul>](https://infosecwriteups.com/how-did-i-leak-5-2k-customer-data-from-a-large-company-via-broken-access-control-709eb4027409)
 **21**|[<ul><li>CVE-2022-21449: Psychic Signatures in Java</li></ul>](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/)
+**22**|[<ul><li>Exploiting Deep Links in Android - Part 1 (Article)</li></ul>](https://inesmartins.github.io/exploiting-deep-links-in-android-part1/index.html)[<ul><li>Android Pentest: Deep Link Exploitation - Blog</li></ul>](https://www.hackingarticles.in/android-pentest-deep-link-exploitation/)
 
