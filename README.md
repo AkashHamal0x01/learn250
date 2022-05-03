@@ -29,4 +29,5 @@ Day | Topic
 **21**|[<ul><li>CVE-2022-21449: Psychic Signatures in Java</li></ul>](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/)
 **22**|[<ul><li>Exploiting Deep Links in Android - Part 1 (Article)</li></ul>](https://inesmartins.github.io/exploiting-deep-links-in-android-part1/index.html)[<ul><li>Android Pentest: Deep Link Exploitation - Blog</li></ul>](https://www.hackingarticles.in/android-pentest-deep-link-exploitation/)
 **23**|[<ul><li>Bypass Apple Corp SSO on Apple Admin Panel - Writeup</li></ul>](https://medium.com/@StealthyBugs/bypass-apple-corp-sso-on-apple-admin-panel-dbfb72c7e634)
+**24**|<ul><li> Rest and some work</li></ul>
 
